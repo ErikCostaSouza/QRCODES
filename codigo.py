@@ -31,3 +31,4 @@ for nome, link in abelhas.items():
     print(f"QR Code para {nome} gerado com sucesso em: {caminho_arquivo}")
 
 print("Todos os QR Codes foram gerados!")
+##
